@@ -1,0 +1,38 @@
+0,Non-defect,非瑕疵,không khiếm khuyết
+-1,Others,其他,khác
+1,Hole,破洞,Vết bục vải - lủng lỗ
+2,End out,斷紗,Đứt sợi
+3,Accidental faulty,壞針,Kim hỏng
+6,Bar,橫條,Vải có vạch ngang
+7,Other fiber,異纖,Sợi sai-sợi bất thường
+8,Nep,棉結,Bết bông
+9,Needle line,針痕,Vết ren kim
+10,Rolling line,捲布痕,Lỗi do cuộn vải
+11,Oil,油污,Bẩn vết dầu
+12,Dirty,髒污,Vải bị bẩn
+13,Dye stain,色跡,Màu lỗi
+15,Crease mark,折痕,Vết gấp nếp
+16,Snag,鉤紗,Vết móc sợi
+17,Chaffed,擦痕,Vết chà sát
+18,Uneven dyeing,色花,Màu loang
+24,Over trimed,缺邊,Viền vải thiếu hụt
+30,Over selvage,針孔過入,Lỗ kim vào quá sâu
+31,Machine stop mark,停機痕,Lỗi do dừng máy
+35,Brush dirty,毛羽污染,Mặt lông bẩn
+41,Haimess,起毛,Sủi lông (nổi lông)
+45,Press mark,壓痕,Vết  ép
+51,Angle,斜條,Sợi xiên
+52,Needle scratch,直條紋,đường sợi thẳng
+54,Wringkling fold,喂布痕,Vết nhăn vải
+57,crumpled,雞爪紋,Vết chân gà
+60,Split yam,裂紗,Tách sợi
+63,Oil needle,油針,Dầu kim
+64,Water trace(Water ripples),水痕(水波紋),Vết nước (vân bọt nước)
+68,Break OP,斷OP,"OP đứt ,giãn vỡ"
+70,Tangling,纏車,Rối màu
+75,Loose OP,OP鬆弛,OP Co giãn lỏng
+79,Thick & Thin Filling,粗細紗,"Sợi thô ,sợi nhỏ"
+161,Snag at back,暗鉤紗,Vết móc sợi ngầm
+181,Bleeding,滲色,Thẩm thấu màu
+453,Falling cloth indentation,落布壓痕,vết nhăn vải
+

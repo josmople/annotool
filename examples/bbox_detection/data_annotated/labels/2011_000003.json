@@ -1,0 +1,253 @@
+{
+  "flags": {},
+  "shapes": [
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          313.99082568807364,
+          150.7431192660549
+        ],
+        [
+          162.99082568807336,
+          31.743119266055047
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "port",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          65.26605504587158,
+          100.99082568807341
+        ],
+        [
+          56.266055045871596,
+          128.99082568807344
+        ],
+        [
+          142.26605504587155,
+          128.99082568807344
+        ],
+        [
+          149.26605504587155,
+          61.990825688073414
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          386.58730158730157,
+          84.17460317460316
+        ],
+        [
+          383.58730158730157,
+          88.17460317460316
+        ],
+        [
+          379.58730158730157,
+          119.17460317460316
+        ],
+        [
+          470.58730158730157,
+          148.17460317460313
+        ],
+        [
+          458.58730158730157,
+          96.17460317460316
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "port",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          350.9555846803553,
+          174.04761904761907
+        ],
+        [
+          333.9555846803553,
+          163.04761904761907
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          414.58730158730157,
+          162.33333333333334
+        ],
+        [
+          433.58730158730157,
+          186.33333333333334
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "port",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          366.5137614678899,
+          32.81651376146789
+        ],
+        [
+          402.29357798165137,
+          62.1743119266055
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          240.95310907237513,
+          219.4955584680355
+        ],
+        [
+          313.8888888888889,
+          187.8441823212465
+        ],
+        [
+          272.60448521916413,
+          160.32124654143
+        ],
+        [
+          202.42099898063202,
+          167.66069608271442
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "defect",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          69.84126984126982,
+          187.55555555555554
+        ],
+        [
+          126.58730158730157,
+          227.23809523809524
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          294.04761904761904,
+          222.47619047619048
+        ],
+        [
+          390.07936507936506,
+          271.2857142857143
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    }
+  ],
+  "lineColor": [
+    0,
+    0,
+    255,
+    255
+  ],
+  "fillColor": [
+    255,
+    170,
+    255,
+    128
+  ],
+  "imagePath": "/home/tadhg/Documents/AutoPPlex-Annotation-Tool/labelme/labelme-modified/examples/bbox_detection/data_annotated/2011_000003.jpg"
+}

@@ -1,0 +1,608 @@
+{
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          325.0,
+          209.0
+        ],
+        [
+          174.0,
+          90.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "icon",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          112.0,
+          168.0
+        ],
+        [
+          98.0,
+          150.0
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "port",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          146.0,
+          162.0
+        ],
+        [
+          137.0,
+          190.0
+        ],
+        [
+          223.0,
+          190.0
+        ],
+        [
+          230.0,
+          123.0
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          360.0,
+          131.0
+        ],
+        [
+          357.0,
+          135.0
+        ],
+        [
+          353.0,
+          166.0
+        ],
+        [
+          444.0,
+          195.0
+        ],
+        [
+          432.0,
+          143.0
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "port",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          286.0,
+          180.0
+        ],
+        [
+          269.0,
+          169.0
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "logo",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          338.0,
+          154.0
+        ],
+        [
+          357.0,
+          178.0
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "defect",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          112.22222222222221,
+          125.62962962962962
+        ],
+        [
+          202.59259259259258,
+          121.18518518518519
+        ],
+        [
+          163.7037037037037,
+          137.48148148148147
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "defect",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          119.25925925925925,
+          68.96296296296296
+        ],
+        [
+          184.44444444444443,
+          60.074074074074076
+        ],
+        [
+          146.66666666666666,
+          80.07407407407406
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "icon",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          54.54545454545454,
+          36.878787878787875
+        ],
+        [
+          184.24242424242422,
+          36.272727272727266
+        ]
+      ],
+      "shape_type": "circle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "icon",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          78.18181818181817,
+          223.5454545454545
+        ],
+        [
+          136.96969696969697,
+          282.3333333333333
+        ],
+        [
+          183.030303030303,
+          241.12121212121212
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "icon",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          261.2121212121212,
+          21.12121212121211
+        ],
+        [
+          372.7272727272727,
+          61.72727272727272
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {},
+      "remarks": null,
+      "state_label": null,
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Unparatised without Eggs",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          88.88888888888889,
+          301.5656565656566
+        ],
+        [
+          49.494949494949495,
+          285.90909090909093
+        ],
+        [
+          76.26262626262627,
+          269.24242424242425
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "unpara_no_egg",
+      "isUnsure": true,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Unparatised without Eggs",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          156.56565656565655,
+          310.65656565656565
+        ],
+        [
+          174.74747474747474,
+          290.45454545454544
+        ],
+        [
+          202.02020202020202,
+          318.73737373737373
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "unpara_no_egg",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Parasitised without Exit Hole",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          422.72727272727275,
+          296.01010101010104
+        ],
+        [
+          396.969696969697,
+          316.2121212121212
+        ],
+        [
+          432.82828282828285,
+          317.22222222222223
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "para_no_hole",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Unparatised without Eggs",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          368.6868686868687,
+          223.78787878787878
+        ],
+        [
+          335.85858585858585,
+          249.54545454545456
+        ],
+        [
+          375.25252525252523,
+          266.2121212121212
+        ],
+        [
+          398.989898989899,
+          242.4747474747475
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "unpara_no_egg",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Unparatised without Eggs",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          35.85858585858586,
+          205.1010101010101
+        ],
+        [
+          53.03030303030303,
+          249.04040404040404
+        ],
+        [
+          92.92929292929293,
+          199.04040404040404
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "unpara_no_egg",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Unparasitised with Eggs",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          248.4848484848485,
+          232.87878787878788
+        ],
+        [
+          216.66666666666666,
+          256.6161616161616
+        ],
+        [
+          272.72727272727275,
+          278.83838383838383
+        ],
+        [
+          289.3939393939394,
+          238.43434343434345
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "unpara_egg",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Dead but Never Parasitised",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          408.88888888888886,
+          81.88888888888889
+        ],
+        [
+          390.0,
+          101.88888888888889
+        ],
+        [
+          421.66666666666663,
+          109.11111111111111
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "dead",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": null
+    },
+    {
+      "label": "Parasitized with pupa",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          319.44444444444446,
+          230.22222222222223
+        ],
+        [
+          296.1111111111111,
+          264.6666666666667
+        ],
+        [
+          319.44444444444446,
+          265.77777777777777
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "para_pupa",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": "aspidiotus_excisus"
+    },
+    {
+      "label": "Unparasitized",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          227.22222222222223,
+          56.33333333333333
+        ],
+        [
+          210.55555555555554,
+          76.33333333333333
+        ],
+        [
+          246.11111111111111,
+          86.33333333333333
+        ],
+        [
+          254.44444444444443,
+          70.77777777777777
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "unpara",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": "aspidiotus_destructor"
+    },
+    {
+      "label": "Parasitized with larva",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          348.88888888888886,
+          200.22222222222223
+        ],
+        [
+          336.1111111111111,
+          219.66666666666666
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "para_larva",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": "aspidiotus_destructor"
+    },
+    {
+      "label": "Parasitized with larva",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          193.33333333333331,
+          272.44444444444446
+        ],
+        [
+          188.33333333333334,
+          281.88888888888886
+        ],
+        [
+          207.77777777777777,
+          285.22222222222223
+        ]
+      ],
+      "shape_type": "polygon",
+      "flags": {},
+      "remarks": null,
+      "state_label": "para_larva",
+      "isUnsure": false,
+      "isScannerIssue": false,
+      "isLowResolution": false,
+      "species": "aspidiotus_rigidus"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "D:/Josm/Workspace/Cocolisap/LabelingTool/labelme/data_annotated\\2011_000003.jpg"
+}
